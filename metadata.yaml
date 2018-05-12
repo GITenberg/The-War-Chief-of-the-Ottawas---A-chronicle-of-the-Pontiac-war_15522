@@ -1,0 +1,28 @@
+_repo: The-War-Chief-of-the-Ottawas---A-chronicle-of-the-Pontiac-war_15522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marquis, Thomas Guthrie
+    alias: Marquis, T. G. (Thomas Guthrie)
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '1476'
+    url: http://www.gutenberg.org/2009/agents/1476
+description: A fantastic look at the Pontiac War by Canadian author Thomas Guthrie
+  Marquis.
+gutenberg_issued: '2005-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Pontiac''s Conspiracy, 1763-1765'
+title: 'The War Chief of the Ottawas : A chronicle of the Pontiac war'
+url: http://www.gutenberg.org/ebooks/15522
