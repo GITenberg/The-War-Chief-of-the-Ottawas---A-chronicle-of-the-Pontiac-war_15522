@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1476
 description: A fantastic look at the Pontiac War by Canadian author Thomas Guthrie
   Marquis.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15522#The-War-Chief-of-the-Ottawas---A-chronicle-of-the-Pontiac-war
 gutenberg_issued: '2005-04-02'
 gutenberg_type: Text
 identifiers:
